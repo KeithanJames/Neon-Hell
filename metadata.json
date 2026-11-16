@@ -1,0 +1,6 @@
+{
+  "name": "NEON HELL",
+  "description": "A retro cyberpunk 2.5D raycasting first-person shooter set in the rogue AI-controlled underground city of VYRE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
